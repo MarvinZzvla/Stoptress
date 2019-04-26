@@ -6,9 +6,36 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/Inicio.unity
+    guid: a5e8764204697df4082eb05f9aa5ec90
+  - enabled: 1
     path: Assets/Scenes/Menu.unity
     guid: a668f1714c275b240a8c45afd161b5e9
   - enabled: 1
+    path: Assets/Scenes/Nature.unity
+    guid: 77fc9fc14d5b48547b73def22792738a
+  - enabled: 1
     path: Assets/Scenes/Breathing.unity
     guid: f9c575dc9e5f5d049a1c9595763c5a6a
+  - enabled: 1
+    path: Assets/Scenes/Relaxation.unity
+    guid: bd7df0ecb0d3bf44fbd6819c3ac89730
+  - enabled: 1
+    path: Assets/Scenes/Asmr.unity
+    guid: 045d431f446e91b48a16a00e946f2a18
+  - enabled: 1
+    path: Assets/Scenes/DeepSleep.unity
+    guid: 695bba6c09b87324097f496768770164
+  - enabled: 1
+    path: Assets/Scenes/Forests.unity
+    guid: ab28f03b1fbdb984993ded46f00b3ffe
+  - enabled: 1
+    path: Assets/Scenes/Instrumental.unity
+    guid: 3cf35d7cfaef6724a9d754d4dda2f707
+  - enabled: 1
+    path: Assets/Scenes/Rain.unity
+    guid: 39e4db8a17471454684697b058203fc6
+  - enabled: 1
+    path: Assets/Scenes/Information.unity
+    guid: 7c0ceb679b6f3fe4ca3f7cc3c466ab85
   m_configObjects: {}
